@@ -1,4 +1,5 @@
 <img width="250" height="167" alt="image1-55" src="https://github.com/user-attachments/assets/02cf4ea3-fe84-434a-b980-c672c457a31f" />
+
 ### _Navigating the Conscience of Code_
 
 > In the era of intelligent automation, human oversight is not a feature—it's the foundation of trust. We ensure that AI technologies are safe, transparent, and aligned with human values.
