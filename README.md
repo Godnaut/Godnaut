@@ -1,4 +1,5 @@
-<img width="250" height="167" alt="image1-55" src="https://github.com/user-attachments/assets/02cf4ea3-fe84-434a-b980-c672c457a31f" />
+
+<img width="200" height="133" alt="image1-53" src="https://github.com/user-attachments/assets/69d88a4c-b80d-495f-b5e4-da2138563859" />
 
 ### _Navigating the Conscience of Code_
 
