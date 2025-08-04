@@ -1,4 +1,5 @@
-<img width="415" height="259" alt="WIDE" src="https://github.com/user-attachments/assets/1155983e-1fda-4b10-b839-39cffa0ab341" />
+![WIDE](https://github.com/user-attachments/assets/60c8cc0c-b298-404a-bdab-6284a801c02a)
+
 
 ### _Navigating the Conscience of Code_
 
