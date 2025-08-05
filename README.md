@@ -50,4 +50,4 @@ Our expertise is particularly critical in high-stakes sectors like **finance, he
 Learn more about our work or discuss how we can help your organization navigate the future of AI.
 
 *   **Website:** ([Godnaut.github.io](https://godnaut.github.io/))
-*   **Contact:** [`contact@godnautsystems.com`](mailto:godnaut@mailfence.com)
+*   **Contact:** [`godnaut@mailfence.com](mailto:godnaut@mailfence.com)
